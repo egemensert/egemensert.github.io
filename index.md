@@ -1,15 +1,31 @@
 ---
-title: Hello,
+title: <span style="color:#202A4F">Hello</span>,
 layout: page
 feature_image: "https://i.ibb.co/ws9HtBQ/tile.jpg"
 feature_text: |
-    # Finding patterns in observations to extract information
+  ## <mark style="background-color:#202A4F; color:white">Finding patterns in observations to extract information</mark>
 ---
+
+<style>
+.footer {
+  background-color:#202A4F;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer small {
+  color: white;
+}
+
+a {
+  color:#202A4F;
+}
+</style>
 
 I am Egemen and what I do is curating plots out of observations. My efforts are
 concentrated on excavating structured information out of partially observable
-systems with many subparts interacting in nonlinear fashion (complex systems).
-My search for patterns is not constrained by a school. I believe real life systems
-assert flexibility in tools to understand them in more depth. Thereby, I do not
-define myself as a Machine Learning researcher, Network Scientist or an EE guy
-looking for signals to convolve.
+systems with many subparts interacting in a nonlinear fashion (complex systems).
+You can find about who I am, what I like and where I love in the About section.
+For projects focused on Data Science and Machine Intelligence please visit the Blog section.
