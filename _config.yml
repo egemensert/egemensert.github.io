@@ -22,10 +22,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'egemensert'
+title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://i.ibb.co/fxJzqqW/Screen-Shot-2019-08-23-at-22-01-21.png"
+logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -48,7 +48,8 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Post output: true
+    title: Posts
+    output: true
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
