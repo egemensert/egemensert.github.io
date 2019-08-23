@@ -49,7 +49,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Post    output: true
+    title: Post output: true
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
