@@ -44,7 +44,6 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
-  color: "#FFF"
 
 # Collections
 collections:
