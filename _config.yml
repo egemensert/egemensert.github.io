@@ -22,8 +22,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Veridolu'
+description: 'Colorful plots are maintained here.'
 permalink: pretty
 logo: "https://i.ibb.co/fxJzqqW/Screen-Shot-2019-08-23-at-22-01-21.png"
 
