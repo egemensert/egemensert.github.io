@@ -1,12 +1,21 @@
 ---
 layout: post
-title:  "<span style='margin-bottom:-0.7em; display:block; font-size:32px;'>Characterizing Political Participation, </span><span style='font-size:20px; display:block; margin-bottom:-1.33em;'> Turkish Parliamentary Elections as a Case Study </span>"
+title:  "<span class='foo' style='margin-bottom:0em; display:block; font-size:32px;'>Characterizing Political Participation, </span><span class='foo' style='font-size:20px; display:block; margin-bottom:-0.5em;line-height:20px;'> Turkish Parliamentary Elections as a Case Study </span>"
 date:   2019-08-26 18:08:22 +0200
 categories: politics turkey
 #feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 <style>
+@media screen and (max-width: 768px) {
+  .foo {
+     margin-bottom: 1em;
+     color:'white'
+  }
+}
+.button--nav {
+  color: #202A4F;
+}
 .footer a {
   color: white !important;
 }

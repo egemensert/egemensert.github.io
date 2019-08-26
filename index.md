@@ -7,7 +7,9 @@ feature_text: |
 ---
 
 <style>
-
+.button--nav {
+  color: #202A4F;
+}
 .footer {
   background-color:#202A4F;
 }
