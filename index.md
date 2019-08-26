@@ -7,6 +7,7 @@ feature_text: |
 ---
 
 <style>
+
 .footer {
   background-color:#202A4F;
 }
