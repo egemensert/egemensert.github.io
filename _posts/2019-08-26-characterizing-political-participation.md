@@ -133,7 +133,7 @@ the southeastern part of Turkey advocates for fewer types of political thought.
 
 <center><img src="/assets/kl.png" width="500px"></center>
 
-This time the map is colored by the city divergence. Divergence of 0.1 is assumed to be neutral (colored in white) and
+This time the map is colored by the city divergence. Divergence of 0.1 is assumed to be the midpoint between modes (colored in white) and
 any value less than 0.1 is colored in red and greater than is colored in blue. From the two
 maps, we can say that the southeastern region of Turkey has a different political character and
 there is not much room for any character else than this. Let's try to identify why.
