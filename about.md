@@ -38,7 +38,7 @@ a {
 </style>
 <div class='bio-container'>
   <span class='bio text'>
-    <img src='/assets/me_irl.JPG' class='image' align='left' HSPACE="50px"/>
+    <img src='/assets/me_irl.jpg' class='image' align='left' HSPACE="50px"/>
     <p>
     Hey! I am Egemen Sert, an Electrical and Electronics Engineering senior at METU.
     My skills are focused on Machine Intelligence and Data Science. I am interested in
