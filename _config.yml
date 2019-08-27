@@ -45,7 +45,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to home
+- title: Back to Home
   url: "./#top"
 
 # Collections
