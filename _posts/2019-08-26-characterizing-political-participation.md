@@ -30,6 +30,10 @@ a {
 }
 </style>
 
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 Democracy is government by the people. Ideally, people choose their representatives

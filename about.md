@@ -36,6 +36,11 @@ a {
   margin-right:2%;
 }
 </style>
+
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 <div class='bio-container'>
   <span class='bio text'>
     <img src='/assets/me_irl.jpg' class='image' align='left' HSPACE="50px"/>

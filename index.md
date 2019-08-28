@@ -27,6 +27,10 @@ a {
 }
 </style>
 
+{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
 I am Egemen and what I do is curating plots out of observations. My efforts are
 concentrated on excavating structured information out of partially observable
 systems with many subparts interacting in a nonlinear fashion (complex systems).
