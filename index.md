@@ -33,6 +33,11 @@ systems with many subparts interacting in a nonlinear fashion (complex systems).
 You can find about who I am, what I like and where I love in the <a href='/about/'>About</a> section.
 For projects focused on Data Science and Machine Intelligence please visit the <a href='/blog/'>Blog</a> section.
 
-{% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146643323-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146643323-1');
+</script>
