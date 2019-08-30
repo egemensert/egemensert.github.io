@@ -23,7 +23,7 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://www.egemensert.me'
 baseurl: ''
 title: 'Veridolu'
 description: 'Colorful plots are maintained here.'
