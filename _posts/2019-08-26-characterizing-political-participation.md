@@ -36,6 +36,8 @@ a {
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+{% include share-bar-top.html %}
+
 Democracy is government by the people. Ideally, people choose their representatives
 based on evaluating the candidates' agenda and determining which candidate is the best for them.
 However, choosing the best candidate based on individual efforts is tiresome.
@@ -212,3 +214,5 @@ still unknown and how the found relationships change over time (dynamics) is sti
 is about a social system, please remember that this post does not show how the system works, but is a mere proxy for it.
 
 Thank you for your time.
+
+{% include share-bar.html %}
