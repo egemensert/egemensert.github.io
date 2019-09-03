@@ -52,11 +52,11 @@ a {
     traditional approaches or Reinforcement Learning. Projects are focused on analyzing
     human systems. Take a look at my analysis on Turkish <a href='/politics/turkey/2019/08/26/characterizing-political-participation/'>Political Variety</a>. <br/><br/>
     &nbsp;&nbsp;Aside from research, I love exploring the world by traveling,
-    learning the languages and observing the cultures. We interact with so many cultures in myriad ways. Check out this <a href='https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world/'>Quartz post</a>.
-    <img src='/assets/beento.png' class='image' align='right' width="350" style='margin-left: 10px'/>
+    learning the languages and observing the cultures. As humans, we interact with so many cultures in myriad ways. Check out this <a href='https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world/'>Quartz post</a>.
+    <img src='/assets/beento.png' class='image' align='right' style='margin-left: 10px; margin-right:0; margin-top:20px; width:18em;'/>
     </p>
     <p style='text-align: justify; text-justify: inter-word;'>
-    &nbsp;&nbsp;&nbsp;&nbsp;In a nutshell, I love to explore the world and observe its social/economic/cultural dynamics using data. Shared a choropleth map of the places I've been to, colored in navy blue. If you have any projects regarding data of the countries (especially in gray), please reach me at egemen[dot]sert[at]metu[dot]edu[dot]tr. Also, <a href='https://scholar.google.com.tr/citations?user=18w61Q8AAAAJ&hl=tr&oi=ao'>here</a> is my Google Scholar page and below is my short resume:
+    &nbsp;&nbsp;&nbsp;&nbsp;In a nutshell, I love to explore the world and observe its social, economic and cultural dynamics using data. On the right is a choropleth map of the places I've been to, colored in navy blue. If you have any projects regarding data of the countries (especially in gray), please reach me at egemen[dot]sert[at]metu[dot]edu[dot]tr. Also, <a href='https://scholar.google.com.tr/citations?user=18w61Q8AAAAJ&hl=tr&oi=ao'>here</a> is my Google Scholar page and below is my short resume:
     </p>
      <img src='/assets/infogram_2.png'/>
 

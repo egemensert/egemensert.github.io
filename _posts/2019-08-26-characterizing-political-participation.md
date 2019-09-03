@@ -3,7 +3,7 @@ layout: post
 title:  "<span class='foo' style='margin-bottom:0.1em; display:block; font-size:32px;'>Characterizing Political Participation, </span><span class='foo' style='font-size:20px; display:block; margin-bottom:-0.5em;line-height:20px;'> Turkish Parliamentary Elections as a Case Study </span>"
 date:   2019-08-26 18:08:22 +0200
 categories: politics turkey
-image: "/assets/kl.png"
+image: "/assets/entropy.png"
 ---
 
 <style>
