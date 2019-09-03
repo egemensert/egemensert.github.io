@@ -30,7 +30,7 @@ a {
 I am Egemen and what I do is curating plots out of observations. My efforts are
 concentrated on excavating structured information out of partially observable
 systems with many subparts interacting in a nonlinear fashion (complex systems).
-You can find about who I am, what I like and where I love in the <a href='/about/'>About</a> section.
+You can find about who I am, what I love in the <a href='/about/'>About</a> section.
 For projects focused on Data Science and Machine Intelligence please visit the <a href='/blog/'>Blog</a> section.
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146643323-1"></script>
