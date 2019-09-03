@@ -2,7 +2,7 @@
 title: <span style="color:#202A4F">Hello</span>,
 layout: page
 feature_image: "https://i.ibb.co/ws9HtBQ/tile.jpg"
-image: "https://i.ibb.co/ws9HtBQ/tile.jpg"
+image: "/assets/fb.png"
 feature_text: |
   ## <mark style="background-color:#202A4F; color:white">Finding patterns in observations to extract information</mark>
 ---
