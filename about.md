@@ -56,7 +56,7 @@ a {
     <img src='/assets/beento.png' class='image' align='right' width="350" style='margin-left: 10px'/>
     </p>
     <p style='text-align: justify; text-justify: inter-word;'>
-    &nbsp;&nbsp;&nbsp;&nbsp;In a nutshell, I love meddling with data to extract insights and explore the world. Shared a choropleth map of the places I've been to. If you have any projects regarding data of the countries (especially in gray), please reach me at egemen[dot]sert[at]metu[dot]edu[dot]tr. Also, <a href='https://scholar.google.com.tr/citations?user=18w61Q8AAAAJ&hl=tr&oi=ao'>here</a> is my Google Scholar page and below is my short resume:
+    &nbsp;&nbsp;&nbsp;&nbsp;In a nutshell, I love meddling with data to extract insights and explore the world. Shared a choropleth map of the places I've been to, colored in navy blue. If you have any projects regarding data of the countries (especially in gray), please reach me at egemen[dot]sert[at]metu[dot]edu[dot]tr. Also, <a href='https://scholar.google.com.tr/citations?user=18w61Q8AAAAJ&hl=tr&oi=ao'>here</a> is my Google Scholar page and below is my short resume:
     </p>
      <img src='/assets/infogram_2.png'/>
 
