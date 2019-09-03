@@ -50,7 +50,7 @@ a {
     transforming unstructured data into structured format, analyzing
     structured data to extract information, and controlling systems with either
     traditional approaches or Reinforcement Learning. Projects are focused on analyzing
-    human systems. Take a look at my analysis on Turkish <a href='/politics/turkey/2019/08/26/characterizing-political-participation/'>Political Variety</a>. <br/><br/>
+    human systems. Take a look at my analysis on Turkish <a href='/politics/turkey/2019/08/26/characterizing-political-participation/'>Political Variety</a>. My resume, Google Scholar page and contact information are below my interests (mild innuendo). Feel free to skip the next paragraph if not interested. <br/>
     &nbsp;&nbsp;&nbsp;Aside from research, I love exploring the world by traveling,
     learning indigenous languages, experiencing diverse cultures and <a href='https://open.spotify.com/playlist/1K1WQUtinIzfSn7AqrRrLI?si=hT7k7DO_T_Cnqh6cx8xDFQ'>music</a>. Thinking on how these constructs emerge from the intricate interactions among people and nature. For instance, check out this <a href='https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world/'>Quartz post</a>.
     <img src='/assets/beento.png' class='image' align='right' style='margin-left: 10px; margin-right:0; margin-top:20px; width:18em;'/>
