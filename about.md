@@ -52,7 +52,7 @@ a {
     traditional approaches or Reinforcement Learning. Projects are focused on analyzing
     human systems. Take a look at my analysis on Turkish <a href='/politics/turkey/2019/08/26/characterizing-political-participation/'>Political Variety</a>. <br/><br/>
     &nbsp;&nbsp;&nbsp;Aside from research, I love exploring the world by traveling,
-    learning indigenous languages and observing diverse cultures. As humans, we interact with so many cultures in myriad ways. Check out this <a href='https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world/'>Quartz post</a>.
+    learning indigenous languages and observing diverse cultures. As humans, we interact with so many cultures in myriad ways. For instance, check out this <a href='https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world/'>Quartz post</a>.
     <img src='/assets/beento.png' class='image' align='right' style='margin-left: 10px; margin-right:0; margin-top:20px; width:18em;'/>
     </p>
     <p style='text-align: justify; text-justify: inter-word;'>
