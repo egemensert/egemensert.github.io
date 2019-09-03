@@ -50,7 +50,8 @@ a {
     transforming unstructured data into structured format, analyzing
     structured data to extract information, and controlling systems with either
     traditional approaches or Reinforcement Learning. Projects are focused on analyzing
-    human systems. Take a look at my analysis on Turkish <a href='/politics/turkey/2019/08/26/characterizing-political-participation/'>Political Variety</a> and Electricity Consumption. Also, <a href='https://scholar.google.com.tr/citations?user=18w61Q8AAAAJ&hl=tr&oi=ao'>here</a> is my Google Scholar page, and below is my short resume.
+    human systems. Take a look at my analysis on Turkish <a href='/politics/turkey/2019/08/26/characterizing-political-participation/'>Political Variety</a>. You can reach me at egemen[dot]sert [at] metu[dot]edu[dot]tr.
+     Also, <a href='https://scholar.google.com.tr/citations?user=18w61Q8AAAAJ&hl=tr&oi=ao'>here</a> is my Google Scholar page and below is my short resume.
 
      </p>
 
