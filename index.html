@@ -61,8 +61,8 @@
       </div>
       <nav class="tabs" aria-label="Primary">
         <a class="tab" href="#home">Home</a>
+        <a class="tab" href="#applied-ai">Machine Learning</a>
         <a class="tab" href="#complex-systems">Complex Systems</a>
-        <a class="tab" href="#applied-ai">Applied AI</a>
         <a class="tab" href="#datasets">Datasets</a>
         <a class="tab" href="#publications">Publications</a>
         <a class="tab" href="#media">Media &amp; Talks</a>
@@ -88,8 +88,8 @@
             <li>Citations: 223</li>
           </ul>
           <div class="cta" style="margin-top:12px">
+            <a class="btn" href="#applied-ai" role="button">Explore ML</a>
             <a class="btn" href="#complex-systems" role="button">Explore Complex Systems</a>
-            <a class="btn" href="#applied-ai" role="button">Explore Applied AI</a>
             <a class="btn" href="#publications" role="button">Publications</a>
           </div>
         </div>
@@ -135,10 +135,71 @@
       </div>
     </section>
 
+        <!-- APPLIED AI PAGE -->
+        <section id="applied-ai">
+          <h2>Machine Learnin</h2>
+          <p class="meta">I design multimodal benchmarks and run large‑scale training to improve <strong>reasoning</strong> in VLMs. I’m excited by protein/genomic modeling, astronomy, and Earth observation, where models support <em>discovery</em> and 
+            <em>interpretability</em>.</p>
+          <div class="grid cols-2">
+      <!-- <article class="card">
+        <h3>Next: AI for Science</h3>
+        <div class="meta" style="margin-bottom:6px"><span class="chip">Roadmap</span></div>
+        <figure><img class="thumb" alt="roadmap placeholder" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='640' height='360'%3E%3Crect width='100%25' height='100%25' fill='%23f3f4f6'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%239ca3af' font-family='sans-serif' font-size='18'%3EPlanned Experiments%3C/text%3E%3C/svg%3E"></figure>
+        <ul>
+          <li>Sequence‑to‑function benchmarks for protein/genomics (curriculum‑style evaluation)</li>
+          <li>Simulator‑aware inference for astronomy / heliophysics</li>
+          <li>Constraint‑aware multimodal models for remote sensing &amp; Earth systems</li>
+        </ul>
+        <p class="meta">Below: selected works illustrating the required skills.</p>
+      </article> -->
+      <article class="card">
+        <h3>Closing the Performance Gap: Data-Centric Fine-Tuning of Vision Language Models for the Standardized Exam Questions</h3>
+        <div class="meta" style="margin-bottom:6px"><span class="chip">Under review</span><span class="chip" style="margin-left:2px">Multimodal reasoning</span><span class="chip" style="margin-left:2px">FSDP</span></div>
+        <figure><img class="thumb" alt="placeholder graphic" src="assets/yksuniform.png"></figure>
+        <p>Curated 161.4M-token reasoning corpus with SFT. Increased performance of an open-source model on par with top proprietary models. Accuracy on YKSUniform: 62.46% → 78.59% (rank 3). SFT on 8xH200 GPUs with FSDP. </p>
+        <p><a target="_blank" rel="noopener" href="https://yks-uniform.github.io">Project site</a></p>
+      </article>
+      <article class="card">
+        <h3>YKSBench — Stress‑Testing Reasoning</h3>
+        <div class="meta" style="margin-bottom:6px"><span class="chip">NeurIPS Workshop (Poster), 2025</span></div>
+        <figure><img class="thumb" alt="placeholder graphic" src="assets/yksbench.png"></figure>
+        <p>Deliberately hard exam‑style items exposing VLM failure modes; used to probe attention grounding and visual‑textual integration.</p>
+        <p><a target="_blank" rel="noopener" href="https://huggingface.co/datasets/metu-yks/yksbench">Dataset</a></p>
+      </article>
+      <article class="card">
+        <h3>YKSUniform - Multimodal Reasoning Dataset on High School Curriculum</h3>
+        <div class="meta" style="margin-bottom:6px"><span class="chip">Under review</span></div>
+        <figure><img class="thumb" alt="placeholder graphic" src="assets/yksuniform_ds.jpg"></figure>
+        <p>Curriculum‑aligned benchmark with <strong>1,854 multimodal questions</strong> across <strong>309 topics</strong> - gathered to evaluate multimodal reasoning capabilities of VLMs.</p>
+        <p><a target="_blank" rel="noopener" href="https://huggingface.co/datasets/esrt/yksuniform">Dataset</a></p>
+      </article>
+      <article class="card">
+        <h3>Solar Power Generation Forecasting</h3>
+        <div class="meta" style="margin-bottom:6px"><span class="chip">SEST 2020</span></div>
+        <figure><img class="thumb" alt="solar forecasting placeholder" src="assets/solar.png"></figure>
+        <p>Analysis &amp; forecasting of a 17.5kW real-world solar plant using LSTM and autoregressive CNN with meteorological inputs.</p>
+        <p><a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/abstract/document/9203124/">Paper</a></p>
+      </article>
+      <article class="card">
+        <h3>Optimizing Age of Information via RL</h3>
+        <div class="meta" style="margin-bottom:6px"><span class="chip">SIU 2018</span></div>
+        <figure><img class="thumb" alt="aoi rl placeholder" src="assets/aoi.png"></figure>
+        <p>Optimized real-life TCP/IP Age of Information using Deep Q-Networks for scheduling under network constraints.</p>
+        <p><a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/abstract/document/8404794">Paper</a></p>
+      </article>
+      <article class="card">
+        <h3>Mammogram Microcalcification Classification</h3>
+        <div class="meta" style="margin-bottom:6px"><span class="chip">IEEE EMBC 2017</span></div>
+        <figure><img class="thumb" alt="embc cnn placeholder" src="assets/microcalci.gif"></figure>
+        <p>State-of-the-art (at the time): ensemble of CNNs for classifying breast microcalcifications in mammograms, among the earliest deep learning capstone projects on this task.</p>
+        <p><a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/abstract/document/8036918">Paper</a></p>
+      </article>
+    </div>
+      </section>
     
     <!-- COMPLEX SYSTEMS PAGE -->
     <section id="complex-systems">
-      <h2>Complex Systems — Modeling Dynamics of Change</h2>
+      <h2>Complex Systems</h2>
       <p class="meta">At NECSI (Yaneer Bar‑Yam, Alfredo Morales), I studied how local behavior yields global phenomena: segregation, polarization, growth, and logistics. Methods: <strong>networks</strong>, <strong>RL/ABM</strong>, 
         <strong>statistical learning</strong>.</p>
       <div class="grid cols-2">
@@ -180,67 +241,7 @@
       </div>
     </section>
 
-    <!-- APPLIED AI PAGE -->
-    <section id="applied-ai">
-      <h2>Applied AI — Data‑Centric Intelligence for Science</h2>
-      <p class="meta">I design multimodal benchmarks and run large‑scale training to improve <strong>reasoning</strong> in VLMs. I’m excited by protein/genomic modeling, astronomy, and Earth observation, where models support <em>discovery</em> and 
-        <em>interpretability</em>.</p>
-      <div class="grid cols-2">
-  <!-- <article class="card">
-    <h3>Next: AI for Science</h3>
-    <div class="meta" style="margin-bottom:6px"><span class="chip">Roadmap</span></div>
-    <figure><img class="thumb" alt="roadmap placeholder" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='640' height='360'%3E%3Crect width='100%25' height='100%25' fill='%23f3f4f6'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%239ca3af' font-family='sans-serif' font-size='18'%3EPlanned Experiments%3C/text%3E%3C/svg%3E"></figure>
-    <ul>
-      <li>Sequence‑to‑function benchmarks for protein/genomics (curriculum‑style evaluation)</li>
-      <li>Simulator‑aware inference for astronomy / heliophysics</li>
-      <li>Constraint‑aware multimodal models for remote sensing &amp; Earth systems</li>
-    </ul>
-    <p class="meta">Below: selected works illustrating the required skills.</p>
-  </article> -->
-  <article class="card">
-    <h3>Closing the Performance Gap: Data-Centric Fine-Tuning of Vision Language Models for the Standardized Exam Questions</h3>
-    <div class="meta" style="margin-bottom:6px"><span class="chip">Under review</span><span class="chip" style="margin-left:2px">Multimodal reasoning</span><span class="chip" style="margin-left:2px">FSDP</span></div>
-    <figure><img class="thumb" alt="placeholder graphic" src="assets/yksuniform.png"></figure>
-    <p>Curated 161.4M-token reasoning corpus with SFT. Increased performance of an open-source model on par with top proprietary models. Accuracy on YKSUniform: 62.46% → 78.59% (rank 3). SFT on 8xH200 GPUs with FSDP. </p>
-    <p><a target="_blank" rel="noopener" href="https://yks-uniform.github.io">Project site</a></p>
-  </article>
-  <article class="card">
-    <h3>YKSBench — Stress‑Testing Reasoning</h3>
-    <div class="meta" style="margin-bottom:6px"><span class="chip">NeurIPS Workshop (Poster), 2025</span></div>
-    <figure><img class="thumb" alt="placeholder graphic" src="assets/yksbench.png"></figure>
-    <p>Deliberately hard exam‑style items exposing VLM failure modes; used to probe attention grounding and visual‑textual integration.</p>
-    <p><a target="_blank" rel="noopener" href="https://huggingface.co/datasets/metu-yks/yksbench">Dataset</a></p>
-  </article>
-  <article class="card">
-    <h3>YKSUniform - Multimodal Reasoning Dataset on High School Curriculum</h3>
-    <div class="meta" style="margin-bottom:6px"><span class="chip">Under review</span></div>
-    <figure><img class="thumb" alt="placeholder graphic" src="assets/yksuniform_ds.jpg"></figure>
-    <p>Curriculum‑aligned benchmark with <strong>1,854 multimodal questions</strong> across <strong>309 topics</strong> - gathered to evaluate multimodal reasoning capabilities of VLMs.</p>
-    <p><a target="_blank" rel="noopener" href="https://huggingface.co/datasets/esrt/yksuniform">Dataset</a></p>
-  </article>
-  <article class="card">
-    <h3>Solar Power Generation Forecasting</h3>
-    <div class="meta" style="margin-bottom:6px"><span class="chip">SEST 2020</span></div>
-    <figure><img class="thumb" alt="solar forecasting placeholder" src="assets/solar.png"></figure>
-    <p>Analysis &amp; forecasting of a 17.5kW real-world solar plant using LSTM and autoregressive CNN with meteorological inputs.</p>
-    <p><a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/abstract/document/9203124/">Paper</a></p>
-  </article>
-  <article class="card">
-    <h3>Optimizing Age of Information via RL</h3>
-    <div class="meta" style="margin-bottom:6px"><span class="chip">SIU 2018</span></div>
-    <figure><img class="thumb" alt="aoi rl placeholder" src="assets/aoi.png"></figure>
-    <p>Optimized real-life TCP/IP Age of Information using Deep Q-Networks for scheduling under network constraints.</p>
-    <p><a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/abstract/document/8404794">Paper</a></p>
-  </article>
-  <article class="card">
-    <h3>Mammogram Microcalcification Classification</h3>
-    <div class="meta" style="margin-bottom:6px"><span class="chip">IEEE EMBC 2017</span></div>
-    <figure><img class="thumb" alt="embc cnn placeholder" src="assets/microcalci.gif"></figure>
-    <p>State-of-the-art (at the time): ensemble of CNNs for classifying breast microcalcifications in mammograms, among the earliest deep learning capstone projects on this task.</p>
-    <p><a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/abstract/document/8036918">Paper</a></p>
-  </article>
-</div>
-</section>
+
 
 
 
